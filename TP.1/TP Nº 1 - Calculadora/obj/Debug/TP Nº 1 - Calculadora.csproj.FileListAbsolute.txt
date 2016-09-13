@@ -1,0 +1,9 @@
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP.1\TP Nº 1 - Calculadora\bin\Debug\TP Nº 1 - Calculadora.exe.config
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP.1\TP Nº 1 - Calculadora\obj\Debug\TP Nº 1 - Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP.1\TP Nº 1 - Calculadora\obj\Debug\TP_Nº_1___Calculadora.FrmCalculadora.resources
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP.1\TP Nº 1 - Calculadora\obj\Debug\TP_Nº_1___Calculadora.Properties.Resources.resources
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP.1\TP Nº 1 - Calculadora\obj\Debug\TP Nº 1 - Calculadora.csproj.GenerateResource.Cache
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP.1\TP Nº 1 - Calculadora\bin\Debug\TP Nº 1 - Calculadora.exe
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP.1\TP Nº 1 - Calculadora\bin\Debug\TP Nº 1 - Calculadora.pdb
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP.1\TP Nº 1 - Calculadora\obj\Debug\TP Nº 1 - Calculadora.exe
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP.1\TP Nº 1 - Calculadora\obj\Debug\TP Nº 1 - Calculadora.pdb
