@@ -1,0 +1,14 @@
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

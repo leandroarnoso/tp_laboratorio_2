@@ -1,0 +1,8 @@
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

@@ -1,0 +1,22 @@
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb

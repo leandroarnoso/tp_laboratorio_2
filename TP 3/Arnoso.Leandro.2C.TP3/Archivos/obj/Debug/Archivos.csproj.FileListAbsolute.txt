@@ -1,0 +1,14 @@
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Leandro\Desktop\Prog. y Lab. II\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\bin\Debug\Archivos.dll
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\obj\Debug\Archivos.dll
+D:\Arnoso Leandro Maximiliano\TP 3\Arnoso.Leandro.2C.TP3\Archivos\obj\Debug\Archivos.pdb
