@@ -96,6 +96,7 @@ namespace Navegador
             {
                 Uri direccion;
                 Descargador descargador;
+                Thread hilo;
 
                 if (!this.txtUrl.Text.Contains("http://"))
                 {
@@ -106,7 +107,7 @@ namespace Navegador
                 
                 descargador.ProgresoDescarga += this.ProgresoDescarga;
                 descargador.DescargaCompletada += this.FinDescarga;
-                Thread hilo = new Thread(descargador.IniciarDescarga);
+                hilo = new Thread(descargador.IniciarDescarga);
                 hilo.Start();
 
                 archivos.guardar(direccion.ToString());
